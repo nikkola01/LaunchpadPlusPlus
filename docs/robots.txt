@@ -1,0 +1,13 @@
+---
+layout: null
+---
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: {{ site.github.url }}/sitemap.xml

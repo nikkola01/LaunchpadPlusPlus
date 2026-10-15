@@ -1,0 +1,7 @@
+title: Launchpad++
+description: A free, private and customizable macOS app launcher.
+theme: null
+plugins:
+  - jekyll-github-metadata
+exclude:
+  - README.md

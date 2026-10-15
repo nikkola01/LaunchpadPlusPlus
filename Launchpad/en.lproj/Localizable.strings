@@ -1,0 +1,144 @@
+/*
+ Localizable.strings (English)
+ Launchpad
+ */
+
+// MARK: - General
+"cancel" = "Cancel";
+"apply" = "Apply";
+"save" = "Save";
+"ok" = "Ok";
+
+// MARK: - Settings View
+"launchpad_settings" = "Launchpad Settings";
+"reset_to_defaults" = "Reset to Defaults";
+"features" = "Features";
+
+// MARK: - Layout Settings
+"layout" = "Layout";
+"columns" = "Columns";
+"rows" = "Rows";
+"folder_columns" = "Folder Columns";
+"folder_rows" = "Folder Rows";
+"category_columns" = "Category Columns";
+"category_rows" = "Category Rows";
+"icon_size" = "Icon Size";
+"margin" = "Margin";
+"apps_top_margin" = "Apps Top Margin";
+"apps_bottom_margin" = "Apps Bottom Margin";
+"label_font_size" = "Label Size";
+"show_categories" = "Show Categories Panel";
+"drop_animation_delay" = "Reordering Delay";
+"page_scroll_debounce" = "Page Scroll Debounce";
+"page_scroll_threshold" = "Page Scroll Threshold";
+"show_dock" = "Show Dock";
+"start_at_login" = "Start at Login";
+"reset_on_relaunch" = "Reset search on Relaunch";
+"show_icons_in_search" = "Show ordering options";
+"enable_icon_animation" = "Enable Icon Animation";
+"transparency" = "Transparency";
+"label_font_color" = "Label Font Color";
+"reflow_pages" = "Reflow pages to fill capacity";
+"reflow" = "Reflow";
+"reflow_pages_confirmation" = "Compact apps in their current order to fill each page? This preview is saved only when you click Save.";
+
+// MARK: - Actions Settings
+"actions" = "Actions";
+"layout_management" = "Layout Management";
+"export_layout" = "Export Layout";
+"import_layout" = "Import Layout";
+"import_from_old_launchpad" = "Import from Old Launchpad (BETA)";
+"clear_all_apps" = "Clear Grid Layout";
+"refresh_apps" = "Refresh Apps";
+
+// Application Control
+"application_control" = "Application Control";
+"force_quit" = "Force Quit";
+
+// MARK: - Hidden Apps
+"hidden_apps" = "Hidden Apps";
+"hide_app" = "Hide App";
+"unhide_app" = "Unhide App";
+"no_hidden_apps" = "No hidden apps";
+"hidden_apps_description" = "Apps hidden from the launcher grid are listed here. Click to unhide them.";
+"unhide_all_apps" = "Unhide All Apps";
+
+// MARK: - Alerts and Confirmations
+"clear_all_apps_title" = "Clear All Apps";
+"clear_all_apps_message" = "This will remove all apps from your custom layout and reset to the default alphabetical order. This action cannot be undone.";
+"clear" = "Clear";
+"import_success" = "Import Successful";
+"import_success_message" = "Successfully imported layout from old macOS Launchpad.";
+"import_failed" = "Import Failed";
+"import_failed_message" = "Could not find or read the old Launchpad database. Make sure you have used the old Launchpad before.";
+"export_success" = "Export Successful";
+"export_failed" = "Export Failed";
+
+// MARK: - Search
+"search_placeholder" = "Search";
+"no_apps_found" = "No apps found";
+"sort_by" = "Sort By";
+"sort_by_default" = "Default";
+"sort_by_name" = "Name";
+"sort_by_type" = "Type (Folders First)";
+"sort_by_last_opened" = "Recently Opened";
+"sort_by_install_date" = "Install Date";
+
+// MARK: - Folder Management
+"untitled_folder" = "Untitled Folder";
+"new_folder" = "New Folder";
+
+// MARK: - Category Management
+"categories" = "Categories";
+"untitled_category" = "Untitled Category";
+"new_category" = "New Category";
+"manage_categories" = "Manage Categories";
+"delete_category" = "Delete Category";
+"delete_category_title" = "Delete Category";
+"delete_category_message" = "Are you sure you want to delete this category? Apps won't be deleted.";
+"open_all_apps" = "Open All Apps (Enter)";
+"no_categories" = "No categories created yet";
+"no_categories_title" = "No Categories";
+"no_categories_subtitle" = "Create categories in settings to organize your apps";
+"categories_description" = "Organize your apps into categories. Apps can belong to multiple categories.";
+"create_category" = "Create Category";
+"category_name" = "Category Name";
+"all_apps" = "All Apps";
+"auto_fill_categories" = "Auto-fill iPhone-style categories";
+"merge_categories" = "Merge with Existing";
+"replace_all_categories" = "Replace All";
+"auto_fill_categories_summary" = "Create %d suggested categories for %d apps? %d apps remain unclassified and %d useful overlaps are included. Merge preserves your existing categories; Replace All starts fresh. Nothing is saved until you click Save.";
+
+// MARK: - Numbers
+"number_10" = "10";
+"number_200" = "200";
+"time_0_0s" = "0.0s";
+"time_3_0s" = "3.0s";
+
+"buy_me_a_coffee" = "Buy Me a Coffee";
+"locations" = "Locations";
+"locations_description" = "Add custom folder locations where Launchpad will search for applications. By default, Launchpad searches in /Applications and /System/Applications.";
+"custom_locations" = "Custom Locations";
+"custom_app_locations" = "Custom App Locations";
+"no_custom_locations" = "No custom locations added yet";
+"add_location" = "Add Location";
+"location_placeholder" = "/path/to/folder";
+"browse_folder" = "Browse for folder";
+"add_location_help" = "Add this location";
+"invalid_location" = "Invalid Location";
+"add_location" = "Add Location";
+"location_placeholder" = "/path/to/folder";
+"browse_folder" = "Browse for folder";
+"invalid_location" = "Invalid Location";
+// MARK: - Background Settings
+"background" = "Background";
+"background_type" = "Background Type";
+"background_default" = "Default (Blur)";
+"background_wallpaper" = "macOS Wallpaper";
+"background_custom" = "Custom Image";
+"background_blur" = "Background Blur";
+"background_opacity" = "Background Opacity";
+"custom_image_path" = "Custom Image Path";
+"browse_image" = "Browse for image";
+"select_image_message" = "Select a background image";
+"image_not_found" = "Image file not found at the specified path.";

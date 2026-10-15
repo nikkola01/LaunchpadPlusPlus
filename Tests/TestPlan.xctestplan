@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "C499D14A-39EA-48C0-B062-D35339C32064",
+      "name" : "Configuration 1",
+      "options" : {
+        "maximumTestExecutionTimeAllowance" : 120,
+        "testExecutionOrdering" : "random"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true,
+    "maximumTestRepetitions" : 1,
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:Launchpad.xcodeproj",
+        "identifier" : "624B20772E9FF18A00DCB407",
+        "name" : "Tests"
+      }
+    }
+  ],
+  "version" : 1
+}

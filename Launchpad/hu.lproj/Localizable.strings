@@ -1,0 +1,144 @@
+/*
+ Localizable.strings (Hungarian)
+ Launchpad
+ */
+
+// MARK: - General
+"cancel" = "Mégse";
+"apply" = "Alkalmaz";
+"save" = "Mentés";
+"ok" = "Ok";
+
+// MARK: - Settings View
+"launchpad_settings" = "Beállítások";
+"reset_to_defaults" = "Alapértelmezett";
+"features" = "Funkciók";
+
+// MARK: - Layout Settings
+"layout" = "Megjelenés";
+"columns" = "Oszlopok";
+"rows" = "Sorok";
+"folder_columns" = "Mappa oszlopok";
+"folder_rows" = "Mappa sorok";
+"category_columns" = "Kategória oszlopok";
+"category_rows" = "Kategória sorok";
+"icon_size" = "Ikon méret";
+"margin" = "Margó";
+"apps_top_margin" = "Alkalmazások felső margója";
+"apps_bottom_margin" = "Alkalmazások alsó margója";
+"label_font_size" = "Címkeméret";
+"show_categories" = "Kategóriapanel megjelenítése";
+"drop_animation_delay" = "Átrendezés késleltetés";
+"page_scroll_debounce" = "Görgetés késleltetés";
+"page_scroll_threshold" = "Görgetési küszöb";
+"show_dock" = "Dock megjelenítése";
+"start_at_login" = "Automatikus indítás";
+"reset_on_relaunch" = "Keresés törlése újraindításkor";
+"show_icons_in_search" = "Rendezés megjelenítése";
+"enable_icon_animation" = "Ikon animáció";
+"transparency" = "Átlátszóság";
+"label_font_color" = "Felirat betűszín";
+"reflow_pages" = "Oldalak újratördelése a kapacitás kitöltéséhez";
+"reflow" = "Újratördelés";
+"reflow_pages_confirmation" = "Tömörítse az alkalmazásokat a jelenlegi sorrendben, hogy minden oldal megteljen? Az előnézet csak a Mentés gombra kattintva lesz mentve.";
+
+// MARK: - Actions Settings
+"actions" = "Műveletek";
+"layout_management" = "Elrendezés";
+"export_layout" = "Exportálás";
+"import_layout" = "Importálás";
+"import_from_old_launchpad" = "Importálás régi Launchpad-ből";
+"clear_all_apps" = "Elrendezés törlése";
+"refresh_apps" = "Alkalmazások frissítése";
+
+// Application Control
+"application_control" = "Alkalmazás vezérlés";
+"force_quit" = "Kilépés";
+
+// MARK: - Hidden Apps
+"hidden_apps" = "Rejtett alkalmazások";
+"hide_app" = "Alkalmazás elrejtése";
+"unhide_app" = "Alkalmazás megjelenítése";
+"no_hidden_apps" = "Nincsenek rejtett alkalmazások";
+"hidden_apps_description" = "A rejtett alkalmazások itt jelennek meg. Kattints rájuk a megjelenítéshez.";
+"unhide_all_apps" = "Összes megjelenítése";
+
+// MARK: - Alerts and Confirmations
+"clear_all_apps_title" = "Elrendezés törlése";
+"clear_all_apps_message" = "Ez eltávolítja az összes alkalmazást az egyéni elrendezésből és visszaállítja az alapértelmezett ábécé sorrendet. Ez a művelet nem vonható vissza.";
+"clear" = "Törlés";
+"import_success" = "Sikeres importálás";
+"import_success_message" = "Sikeresen importálva a régi macOS Launchpad elrendezés.";
+"import_failed" = "Sikertelen importálás";
+"import_failed_message" = "Nem található vagy nem olvasható a régi Launchpad adatbázis. Győződj meg róla, hogy használtad korábban a régi Launchpad-et.";
+"export_success" = "Sikeres exportálás";
+"export_failed" = "Sikertelen exportálás";
+
+// MARK: - Search
+"search_placeholder" = "Keresés";
+"no_apps_found" = "Nem található alkalmazás";
+"sort_by" = "Rendezés";
+"sort_by_default" = "Alapértelmezett";
+"sort_by_name" = "Név";
+"sort_by_type" = "Típus";
+"sort_by_last_opened" = "Megnyitás dátuma";
+"sort_by_install_date" = "Telepítés dátuma";
+
+// MARK: - Folder Management
+"untitled_folder" = "Névtelen Mappa";
+"new_folder" = "Új Mappa";
+
+// MARK: - Category Management
+"categories" = "Kategóriák";
+"untitled_category" = "Névtelen aategória";
+"new_category" = "Új kategória";
+"manage_categories" = "Kategóriák kezelése";
+"delete_category" = "Kategória törlése";
+"delete_category_title" = "Kategória törlése";
+"delete_category_message" = "Biztosan törölni szeretnéd ezt a kategóriát? Az alkalmazások nem kerülnek törlésre.";
+"open_all_apps" = "Összes alkalmazás megnyitása";
+"no_categories" = "Még nincsenek kategóriák";
+"no_categories_title" = "Nincsenek kategóriák";
+"no_categories_subtitle" = "Hozz létre kategóriákat a beállításokban az alkalmazások rendezéséhez";
+"categories_description" = "Rendezd az alkalmazásaidat különböző kategóriákba.";
+"create_category" = "Kategória létrehozása";
+"category_name" = "Kategória neve";
+"all_apps" = "Összes alkalmazás";
+"auto_fill_categories" = "iPhone-stílusú kategóriák automatikus kitöltése";
+"merge_categories" = "Egyesítés a meglévőkkel";
+"replace_all_categories" = "Összes cseréje";
+"auto_fill_categories_summary" = "%d javasolt kategória létrehozása %d alkalmazáshoz? %d alkalmazás besorolatlan marad, és %d hasznos átfedés szerepel. Az Egyesítés megtartja a meglévő kategóriákat; az Összes cseréje újrakezdi. Semmi sem kerül mentésre, amíg a Mentés gombra nem kattint.";
+
+// MARK: - Numbers
+"number_10" = "10";
+"number_200" = "200";
+"time_0_0s" = "0,0mp";
+"time_3_0s" = "3,0mp";
+
+"buy_me_a_coffee" = "Buy Me a Coffee";
+"locations" = "Helyek";
+"locations_description" = "Adj hozzá egyéni mappákat, ahol a Launchpad alkalmazásokat keres.";
+"custom_locations" = "Egyéni helyek";
+"custom_app_locations" = "Egyéni alkalmazás helyek";
+"no_custom_locations" = "Még nincsenek hozzáadott helyek";
+"add_location" = "Hely hozzáadása";
+"location_placeholder" = "/útvonal/a/mappához";
+"browse_folder" = "Mappa böngészése";
+"add_location_help" = "Hely hozzáadása";
+"invalid_location" = "Érvénytelen hely";
+"add_location" = "Hely hozzáadása";
+"location_placeholder" = "/útvonal/a/mappához";
+"browse_folder" = "Mappa böngészése";
+"invalid_location" = "Érvénytelen hely";
+// MARK: - Background Settings
+"background" = "Háttér";
+"background_type" = "Háttér típusa";
+"background_default" = "Elmosódás";
+"background_wallpaper" = "Háttérkép";
+"background_custom" = "Egyéni kép";
+"background_blur" = "Háttér elmosódás";
+"background_opacity" = "Háttér átlátszatlansága";
+"custom_image_path" = "Egyéni kép útvonala";
+"browse_image" = "Kép böngészése";
+"select_image_message" = "Válassz egy háttérképet";
+"image_not_found" = "A kép nem található a megadott útvonalon.";
